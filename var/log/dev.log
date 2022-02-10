@@ -1,0 +1,2 @@
+[2022-02-09 17:56:53] console.CRITICAL: Error thrown while running command "make:entity". Message: "Aborted." {"exception":"[object] (Symfony\\Component\\Console\\Exception\\MissingInputException(code: 0): Aborted. at C:\\xampp\\htdocs\\Learn_again\\vendor\\symfony\\console\\Helper\\QuestionHelper.php:129)","command":"make:entity","message":"Aborted."} []
+[2022-02-09 17:59:20] console.DEBUG: Command "make:entity" exited with code "1" {"command":"make:entity","code":1} []
